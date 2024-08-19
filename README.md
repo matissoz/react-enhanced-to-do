@@ -21,6 +21,7 @@ This version of the to-do application expands upon the basic version by introduc
 - **Use Components:** Structure the application using React components to ensure code modularity, reusability, and maintainability.
 - **JSON-Server:** Simulates a backend to work with real data without backend development.
 - **React Router:** Manages navigation within the app, enabling page transitions without reloading.
+- **UI Libraries:** Incorporate any UI library like Ant Design (AntD), shadcn, Material-UI (MUI), or TailwindCSS.
 
 ## Getting Started
 
